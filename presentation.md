@@ -29,28 +29,28 @@ Challenges (and solutions), but please keep it professional (e.g., no rants)
 ### PM Presentation: Phase 1
 This phase’s presentation should introduce and motivate the project.
 
-Find an engaging start to the presentation: asking the audience a question, adding an anecdote or an illustrative example. Be creative while also being respectful!
-Include a compelling motivation for your project. If possible, show existing alternatives and explain the client’s dissatisfaction with those solutions.
-Explain any technical terms, acronyms or helpful relevant information.
++ Find an engaging start to the presentation: asking the audience a question, adding an anecdote or an illustrative example. Be creative while also being respectful!
++ Include a compelling motivation for your project. If possible, show existing alternatives and explain the client’s dissatisfaction with those solutions.
++ Explain any technical terms, acronyms or helpful relevant information.
 List potential users (and their roles).
-Provide an overview and description of the features of the MVP. 
-+ display informative/relevant visualizations
-* note that clip art is seen as less professional than high-quality images.
-+ illustrate the functionality/app flow using clean, simple, informative diagrams / mockups / wireframes -- visuals can be more informative and explicitly show connections between components
-+ you can create an effective functionality/diagram walk-through using step-by-step animations (they can guide audience’s attention to the appropriate section of the slide)
-Include a section on current progress.
-+ It’s great to include a smoothly-executed live demo (or record a video of a walk-through)! 
-+ Alternatively, use screenshots of the implemented features (make sure they are professional/relevant)!
++ Provide an overview and description of the features of the MVP. 
++ Display informative/relevant visualizations
+  + Note that clip art is seen as less professional than high-quality images.)
+  + Illustrate the functionality/app flow using clean, simple, informative diagrams / mockups / wireframes -- visuals can be more informative and explicitly show connections between components
+  + You can create an effective functionality/diagram walk-through using step-by-step animations (they can guide audience’s attention to the appropriate section of the slide)
++ Include a section on current progress.
+  + It’s great to include a smoothly-executed live demo (or record a video of a walk-through)! 
+  + Alternatively, use screenshots of the implemented features (make sure they are professional/relevant)!
 Outline high-level plans for each phase (breakdown of features). You can use a table or bullet-points, listing goals for each phase. 
 
 ### PM Presentation: Phase 2
 
 This phase’s presentation should “look under the hood” and describe the underlying run-time components, e.g., technologies/gems/scripts that are driving the project. The focus should be less on the functionality of the app, and more on the decisions behind the various architectural elements, what they accomplish, and how they interact with each other. Don’t focus too much on what the user actions should be, but instead, tell us what each run-time component is contributing to the project, and what components it connects to.
+ 
 + Provide a project overview/client’s vision to remind the audience of your “mission”
 + Give an overview of Architecture and the components that it is comprised of (e.g., data storage, pre-processing modules)
-
-* explain the reasoning behind team’s decisions to adopt selected technologies
-    * mention the limitations and challenges as well as the solutions, workarounds, and “take-away”s. 
++ Explain the reasoning behind team’s decisions to adopt selected technologies
+  + mention the limitations and challenges as well as the solutions, workarounds, and “take-away”s. 
 + Provide team’s MVP progress (what was finished, what’s in progress).
 + Outline the plan for the upcoming phases (what features will be addressed next?)
 
@@ -65,7 +65,6 @@ This phase’s presentation should tell us a story of a user’s journey through
 
 Use the presentation focus from above along with the instructions for the Phase 1 presentations as a guideline. Use the lessons and feedback from previous PMs to improve your presentation.
 
- 
 
 ### PM Presentation: Phase 4
 
@@ -73,13 +72,13 @@ Use the presentation focus from above along with the instructions for the Phase 
 
 Added on 4/23: Your goal is to provide an overview of the project and the process that the team went through to arrive to the current prototype.
 
-Find an engaging start to the presentation; Include a compelling motivation for your project to remind the audience of your “mission” (challenge yourself to come up with a new motivation, instead of reusing one from previous presentation(s)). If possible, show existing alternatives, explain the client’s dissatisfaction with those solutions, and explain how your work addresses the client’s vision.
++ Find an engaging start to the presentation; Include a compelling motivation for your project to remind the audience of your “mission” (challenge yourself to come up with a new motivation, instead of reusing one from previous presentation(s)). If possible, show existing alternatives, explain the client’s dissatisfaction with those solutions, and explain how your work addresses the client’s vision.
 
-Recap your project. Focus on what the team has achieved: what was your MVP, and how did you extend it? You don't necessarily need to talk more specifically about what the team accomplished in each phase, but you can show how your work evolved over the phases, highlighting specific features.
++ Recap your project. Focus on what the team has achieved: what was your MVP, and how did you extend it? You don't necessarily need to talk more specifically about what the team accomplished in each phase, but you can show how your work evolved over the phases, highlighting specific features.
 
-Outline and explain the reasoning behind team’s decisions to adopt selected technologies. What were the limitations and challenges as well as the solutions, workarounds, and “take-away”s?
++ Outline and explain the reasoning behind team’s decisions to adopt selected technologies. What were the limitations and challenges as well as the solutions, workarounds, and “take-away”s?
 
-If you had one more phase, what would you work on? What still needs to be fixed?
++ If you had one more phase, what would you work on? What still needs to be fixed?
 
 ### More Details
 
@@ -103,19 +102,22 @@ Presentation Content (10 pts)
 - Did you explain any technical terms, acronyms or helpful relevant information?
 - Is your content well-organized, easy-to-understand, readable, and clear?
 - Do you have an informative last slide?
-- Presentation Style (10 pts)
+  
+Presentation Style (10 pts)
 - Did you include informative/relevant visuals?
 - Is it easy for the audience to see/read the content of all figures?
 - Did you spell-check your slides?
-- Presentation Delivery (10 pts)
+  
+Presentation Delivery (10 pts)
 - Are you on time for your presentation?
 - Do you speak loudly and clearly?
 - Are you prepared to present your intended information? (e.g., did you rehearse your talk)
-- Responses to questions (5 pts)
+  
+Responses to questions (5 pts)
 - Did you repeat each question before answering?
 - Have you understood the question before answering?
 - Did the answer address the question?
-- Student Feedback (5 pt)
-- Part of your score will be decided by your classmates in their feedback forms
+  
+Student Feedback (5 pt) Part of your score will be decided by your classmates in their feedback forms
 - Did your answers to your peers' questions demonstrate understanding of the project?
 - Did your peers find your presentation clear, helpful, and informative?
