@@ -105,24 +105,24 @@ Also, take a look at the sample pages of Trees, maps, and theorems: "Most slides
 Rubric (TBD, in progress but below are some of the guidelines)
 
 Presentation Content (10 pts)
-Did you provide an overview/motivation?
-Do you present the requested project components?
-Did you explain any technical terms, acronyms or helpful relevant information?
-Is your content well-organized, easy-to-understand, readable, and clear?
-Do you have an informative last slide?
-Presentation Style (10 pts)
-Did you include informative/relevant visuals?
-Is it easy for the audience to see/read the content of all figures?
-Did you spell-check your slides?
-Presentation Delivery (10 pts)
-Are you on time for your presentation?
-Do you speak loudly and clearly?
-Are you prepared to present your intended information? (e.g., did you rehearse your talk)
-Responses to questions (5 pts)
-Did you repeat each question before answering?
-Have you understood the question before answering?
-Did the answer address the question?
-Student Feedback (5 pt)
-Part of your score will be decided by your classmates in their feedback forms
-Did your answers to your peers' questions demonstrate understanding of the project?
-Did your peers find your presentation clear, helpful, and informative?
+- Did you provide an overview/motivation?
+- Do you present the requested project components?
+- Did you explain any technical terms, acronyms or helpful relevant information?
+- Is your content well-organized, easy-to-understand, readable, and clear?
+- Do you have an informative last slide?
+- Presentation Style (10 pts)
+- Did you include informative/relevant visuals?
+- Is it easy for the audience to see/read the content of all figures?
+- Did you spell-check your slides?
+- Presentation Delivery (10 pts)
+- Are you on time for your presentation?
+- Do you speak loudly and clearly?
+- Are you prepared to present your intended information? (e.g., did you rehearse your talk)
+- Responses to questions (5 pts)
+- Did you repeat each question before answering?
+- Have you understood the question before answering?
+- Did the answer address the question?
+- Student Feedback (5 pt)
+- Part of your score will be decided by your classmates in their feedback forms
+- Did your answers to your peers' questions demonstrate understanding of the project?
+- Did your peers find your presentation clear, helpful, and informative?
