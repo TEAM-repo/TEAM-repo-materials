@@ -57,13 +57,13 @@ Provide steps to reproduce the problem / name a file or a function where the pro
 Make sure to check out the repo anew (potentially on a CIS/loaned laptop) and test your installation instructions.
 
  
-Rubric
-[1 pt] Project name
-[1 pt] Project description
-[1 pt] Architecture: Prereqs
-[2 pts] Architecture: all necessary gems are listed, and their purpose in the app is clearly described
-[3 pts] Clear, complete, and reproducible installation instructions
-[3 pts] Functionality: clear instructions on how to use the app
-[3 pts] Described known problems along with the necessary information to reproduce/locate the issue.
-[1 pt] Included MIT license file
-[1 pt] All team members were at the meeting on time
+### Rubric
+- [1 pt] Project name
+- [1 pt] Project description
+- [1 pt] Architecture: Prereqs
+- [2 pts] Architecture: all necessary gems are listed, and their purpose in the app is clearly described
+- [3 pts] Clear, complete, and reproducible installation instructions
+- [3 pts] Functionality: clear instructions on how to use the app
+- [3 pts] Described known problems along with the necessary information to reproduce/locate the issue.
+- [1 pt] Included MIT license file
+- [1 pt] All team members were at the meeting on time
