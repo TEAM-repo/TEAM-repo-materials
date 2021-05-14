@@ -3,11 +3,11 @@
 Ensure that you can clearly articulate the main goal of your presentation: what do you want your audience to take away from it?
 
 Before using slides as a default mode of your presentation, brainstorm potential other ways in which you can present.
-	* Can you draw things instead?
-	* Can you use pen/paper/whiteboard/tablet? 
-	* Can you use physical objects to illustrate/explain different concepts?
-	* In what other way can you be creative with your demo? 
-	* What would you do differently if this was part of a [TED](http://ted.com/) talk?
+* Can you draw things instead?
+* Can you use pen/paper/whiteboard/tablet? 
+* Can you use physical objects to illustrate/explain different concepts?
+* In what other way can you be creative with your demo? 
+* What would you do differently if this was part of a [TED](http://ted.com/) talk?
 
 If you decide to use slides, use them as an aid instead of as a replacement of your of talk.
 If you plan to share your slides as a reference, consider creating additional (hidden) slides that can be distributed separately from the slides that you use for your talk.
